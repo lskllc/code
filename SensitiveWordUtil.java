@@ -5,9 +5,7 @@ import java.util.*;
 
 /**
  * 敏感词处理工具 - DFA算法实现
- *
  * @author sam
- * @since 2017/9/4
  */
 public class SensitiveWordUtil {
 
