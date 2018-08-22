@@ -1,4 +1,4 @@
-package com.bookdao.oasis.generator;
+package com.lisk.utils;
 
 
 import java.util.*;
