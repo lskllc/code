@@ -1,5 +1,3 @@
-package com.bookdao.oasis.utils;
-
 import java.lang.annotation.*;
 
 /**
