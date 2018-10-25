@@ -2,4 +2,6 @@
 2.数据结构
 3.Spring aop，ioc
 4.索引
-
+5.list,map等数组集合原理解析
+6.redis原理剖析
+7.nginx原理分析
